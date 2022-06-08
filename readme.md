@@ -1,4 +1,4 @@
-#Inventory Management System
+# Inventory Management System
 #### Developed in C#, a Windows form application
 The invoice management system allows the end-user to create employees and invoices. And provides the ability
 to generate reports based on the employees and invoices.
